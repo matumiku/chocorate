@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+opencv-python
+ultralytics
+youtube-dl
+yt-dlp
+ffmpeg
+ffmpeg-python
